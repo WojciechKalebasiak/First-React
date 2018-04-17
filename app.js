@@ -46,6 +46,7 @@ var movies = [{
 
     }
 ];
+
 var Movie = React.createClass({
     render: function() {
         return React.createElement('li', {},
